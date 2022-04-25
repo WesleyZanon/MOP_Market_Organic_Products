@@ -67,7 +67,7 @@
             android:orientation="vertical">
 
             <EditText
-                android:id="@+id/editTextTextPersonName"
+                android:id="@+id/EditTituloProduto"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="10dp"
@@ -77,7 +77,7 @@
                 android:padding="12dp" />
 
             <EditText
-                android:id="@+id/editTextNumberDecimal2"
+                android:id="@+id/EditValorProduto"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="10dp"
@@ -87,7 +87,7 @@
                 android:padding="12dp" />
 
             <EditText
-                android:id="@+id/editTextTextPersonName3"
+                android:id="@+id/EditDescricaoProduto"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="10dp"

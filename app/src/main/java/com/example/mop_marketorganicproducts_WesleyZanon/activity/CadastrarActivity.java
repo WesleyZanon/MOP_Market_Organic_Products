@@ -47,7 +47,7 @@ public class CadastrarActivity extends AppCompatActivity {
 
         inicializarComponentes();
 
-
+        //11/12/2000
 
     }
 

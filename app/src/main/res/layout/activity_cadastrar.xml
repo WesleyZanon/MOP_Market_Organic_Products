@@ -7,13 +7,13 @@
     tools:context=".activity.CadastrarActivity">
 
     <LinearLayout
-        android:layout_width="409dp"
-        android:layout_height="601dp"
+        android:layout_width="388dp"
+        android:layout_height="574dp"
         android:layout_margin="10dp"
         android:gravity="center"
         android:orientation="vertical"
-        tools:layout_editor_absoluteX="1dp"
-        tools:layout_editor_absoluteY="1dp">
+        tools:layout_editor_absoluteX="11dp"
+        tools:layout_editor_absoluteY="12dp">
 
         <ImageView
             android:id="@+id/imageView4"
@@ -26,25 +26,32 @@
             android:id="@+id/editCadastroNome"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
             android:ems="10"
             android:hint="NOME"
             android:inputType="textPersonName"
             android:padding="12dp" />
 
         <EditText
-            android:id="@+id/editCadastroNome2"
+            android:id="@+id/editTextPhone"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
             android:ems="10"
             android:hint="TELEFONE"
-            android:inputType="textPersonName"
+            android:inputType="phone"
             android:padding="12dp" />
 
         <EditText
             android:id="@+id/editTextTextPassword"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
             android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
             android:ems="10"
             android:hint="EMAIL"
             android:inputType="textPassword"
@@ -54,17 +61,19 @@
             android:id="@+id/editTextTextEmailAddress2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
             android:layout_marginTop="10dp"
             android:ems="10"
             android:hint="SENHA"
             android:inputType="textEmailAddress"
-            android:padding="12dp" />
+            android:padding="12dp"
+            android:layout_marginRight="10dp" />
 
         <Button
             android:id="@+id/button"
-            android:layout_width="match_parent"
+            android:layout_width="290dp"
             android:layout_height="wrap_content"
-            android:layout_marginTop="15dp"
+            android:layout_marginTop="30dp"
             android:text="CADASTRAR" />
 
     </LinearLayout>

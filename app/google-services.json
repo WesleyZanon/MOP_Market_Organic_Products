@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "640970086617",
+    "project_id": "mop---market-organic-pro-4d43b",
+    "storage_bucket": "mop---market-organic-pro-4d43b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640970086617:android:7df2bc8b741fed738746c8",
+        "android_client_info": {
+          "package_name": "com.example.mop_marketorganicproducts_WesleyZanon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640970086617-70anh8bifotavs971r5d0kireqe3olal.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mop_marketorganicproducts_WesleyZanon",
+            "certificate_hash": "6582093a6ee781b17cddee32d17d538ee2403334"
+          }
+        },
+        {
+          "client_id": "640970086617-p7nv3h8npbpgujf1gfu1tk2s141bhs8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjj0yMNzftxYAIsY8fG60HQjKRdaNuBoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640970086617-p7nv3h8npbpgujf1gfu1tk2s141bhs8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

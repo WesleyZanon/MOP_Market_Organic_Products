@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/wesle/AndroidStudioProjects/MOP - Market Organic Products/app/src/main/res/drawable-v24/bg_edit_text.xml" value="0.1" />
+        <entry key="..\:/Users/wesle/AndroidStudioProjects/MOP - Market Organic Products/app/src/main/res/drawable/bg_edit_text.xml" value="0.1" />
+        <entry key="..\:/Users/wesle/AndroidStudioProjects/MOP - Market Organic Products/app/src/main/res/drawable/ic_add_branco_24.xml" value="0.363" />
+        <entry key="..\:/Users/wesle/AndroidStudioProjects/MOP - Market Organic Products/app/src/main/res/layout/activity_anuncio.xml" value="0.2677083333333333" />
+        <entry key="..\:/Users/wesle/AndroidStudioProjects/MOP - Market Organic Products/app/src/main/res/layout/activity_anuncios.xml" value="0.30885416666666665" />
+        <entry key="..\:/Users/wesle/AndroidStudioProjects/MOP - Market Organic Products/app/src/main/res/layout/activity_cadastrar.xml" value="0.25" />
+        <entry key="..\:/Users/wesle/AndroidStudioProjects/MOP - Market Organic Products/app/src/main/res/layout/activity_cadastrar_anuncios.xml" value="0.33" />
+        <entry key="..\:/Users/wesle/AndroidStudioProjects/MOP - Market Organic Products/app/src/main/res/layout/activity_login.xml" value="0.2677083333333333" />
+        <entry key="..\:/Users/wesle/AndroidStudioProjects/MOP - Market Organic Products/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/wesle/AndroidStudioProjects/MOP - Market Organic Products/app/src/main/res/layout/activity_meus_anuncios.xml" value="0.33" />
+        <entry key="..\:/Users/wesle/AndroidStudioProjects/MOP - Market Organic Products/app/src/main/res/layout/activity_meus_produtos.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/wesle/AndroidStudioProjects/MOP - Market Organic Products/app/src/main/res/layout/content_meus_produtos.xml" value="0.33" />
+        <entry key="..\:/Users/wesle/AndroidStudioProjects/MOP - Market Organic Products/app/src/main/res/layout/fragment_first.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/wesle/AndroidStudioProjects/MOP - Market Organic Products/app/src/main/res/layout/fragment_second.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/wesle/AndroidStudioProjects/MOP - Market Organic Products/app/src/main/res/menu/menu_main.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

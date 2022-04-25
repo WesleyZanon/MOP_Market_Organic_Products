@@ -47,9 +47,6 @@ public class CadastrarActivity extends AppCompatActivity {
 
         inicializarComponentes();
 
-        //11/12/200
-        //wesley
-        //zanon
 
     }
 

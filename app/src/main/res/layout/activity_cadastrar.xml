@@ -43,7 +43,8 @@
             android:ems="10"
             android:hint="TELEFONE"
             android:inputType="phone"
-            android:padding="12dp" />
+            android:padding="12dp"
+            app:met_mask="+55(##) ####-####"/>
 
         <EditText
             android:id="@+id/editTextTextPassword"

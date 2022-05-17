@@ -3,7 +3,11 @@ MOP - aplicativo de de compras e vendas de produtos organicos
 
 
 # Autores
-Wesley Davi Zanon Novaes;
-Daniel de Lima Ferreira;
-Enrico Venturini Costa;
-Lucas Ignacio Nobrega;
+Wesley Davi Zanon Novaes
+
+Daniel de Lima Ferreira
+
+Enrico Venturini Costa
+
+Lucas Ignacio Nobrega
+

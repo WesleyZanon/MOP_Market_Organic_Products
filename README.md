@@ -20,7 +20,7 @@ Lucas Ignacio Nobrega RA: 180505
 apos abrir app, o usurio sera redirecionado para essa tela, aqui ficam os anuncios dos produtos postados.
 
 <div style="width:50px; height:50px"><div style="width:50px; height:50px">
-![](https://raw.githubusercontent.com/WesleyZanon/MOP_Market_Organic_Products/master2/imagens%20git/Screenshot_20220517-182907_MOP%20App.jpg)
+![Employee data](https://raw.githubusercontent.com/WesleyZanon/MOP_Market_Organic_Products/master2/imagens%20git/Screenshot_20220517-182907_MOP%20App.jpg)
 </div>
   
 Nessa tela o usuario pode fazer o login para acessar seus dados e produtos.

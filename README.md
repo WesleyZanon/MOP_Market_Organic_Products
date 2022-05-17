@@ -19,7 +19,7 @@ Lucas Ignacio Nobrega RA: 180505
 ## Tela Inicial sem cadastro
 apos abrir app, o usurio sera redirecionado para essa tela, aqui ficam os anuncios dos produtos postados.
 
-[![](https://raw.githubusercontent.com/WesleyZanon/MOP_Market_Organic_Products/master2/imagens%20git/Screenshot_20220517-182907_MOP%20App.jpg)
+![](https://raw.githubusercontent.com/WesleyZanon/MOP_Market_Organic_Products/master2/imagens%20git/Screenshot_20220517-182907_MOP%20App.jpg)
 
 Nessa tela o usuario pode fazer o login para acessar seus dados e produtos.
 

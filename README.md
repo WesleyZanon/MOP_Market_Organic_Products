@@ -16,7 +16,7 @@ Lucas Ignacio Nobrega RA: 180505
 
 
 
-#Guias e ajudas com as telas
+# Guias e ajudas com as telas
 
 ## Tela Inicial sem cadastro
 apos abrir app, o usurio sera redirecionado para essa tela, aqui ficam os anuncios dos produtos postados.

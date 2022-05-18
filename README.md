@@ -30,7 +30,7 @@ Nessa tela o usuario pode fazer o login para acessar seus dados e produtos.
 
 Para realizar o login insira o email e a senha, apos isso clique em acessar caso o usuario nao tenha cadastro clique em cadastrar.
 
-##Tela de Cadastro
+## Tela de Cadastro
 ![](https://raw.githubusercontent.com/WesleyZanon/MOP_Market_Organic_Products/master2/imagens%20git/Screenshot_20220517-182806_MOP%20App.jpg)
 
 
@@ -39,7 +39,7 @@ Apos preencher todos os campo clique em cadastrar para realizar seu cadastro.
 
 Apos a realização de cadastro o usurio sera redirecionado para a tela de login.
 
-##Tela inicial com cadastro
+## Tela inicial com cadastro
 ![](https://raw.githubusercontent.com/WesleyZanon/MOP_Market_Organic_Products/master2/imagens%20git/Screenshot_20220517-182840_MOP%20App.jpg)
 
 Alem do usuario ter acesso aos produtos, ele pode favoritar e cadastrar novos produtos.
@@ -47,7 +47,7 @@ Alem do usuario ter acesso aos produtos, ele pode favoritar e cadastrar novos pr
 ![](https://raw.githubusercontent.com/WesleyZanon/MOP_Market_Organic_Products/master2/imagens%20git/Screenshot_20220517-185829_MOP%20App.jpg)
 
 
-##Tela de Favoritos
+## Tela de Favoritos
 ![](https://raw.githubusercontent.com/WesleyZanon/MOP_Market_Organic_Products/master2/imagens%20git/Screenshot_20220517-183634_MOP%20App.jpg)
 
 
@@ -56,7 +56,7 @@ Alem do usuario ter acesso aos produtos, ele pode favoritar e cadastrar novos pr
 
 Para adicionar produtos selecione ou clique no icone de soma
 
-##Tela de Cadastro de Produtos
+## Tela de Cadastro de Produtos
 
 Aqui o usurio tem que selecionar ao menos uma foto e preeencher todos os campos.
 
